@@ -1,6 +1,6 @@
 # igracias
 
-A new Flutter application.
+i made igracias ittelkom purwokerto ui/ux design using flutter
 
 ## Getting Started
 
